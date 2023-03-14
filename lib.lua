@@ -15,7 +15,7 @@ local UserInputService = game:GetService("UserInputService")
 local TextService = game:GetService("TextService")
 local TweenService = game:GetService("TweenService")
 local RunService = game:GetService("RunService")
-local CoreGuiService = game:GetService("CoreGui")
+local CoreGuiService = game:GetService("StarterGui")
 local ContentService = game:GetService("ContentProvider")
 local TeleportService = game:GetService("TeleportService")
 
